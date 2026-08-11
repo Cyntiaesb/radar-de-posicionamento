@@ -24,10 +24,6 @@ Skill de Claude Code que conduz um estudo de mercado completo do zero — do "o 
 - `apresentacoes/{data}-fontes.md` — registro de toda fonte usada (auditável)
 - Os materiais brutos de cada fase, salvos como `.md` no projeto
 
-## Encaixe com outras skills
-
-Essa é a Etapa 1 de um método maior. As **causas-raiz** que saem do mapa sintoma × causa (slide 27-29) alimentam diretamente a skill [`pagina-isca`](https://github.com/Cyntiaesb/pagina-isca) (Etapa 2 — Iscas & Captação): 20 sintomas viram ganchos de reel, 4-7 causas viram iscas possíveis, 3 entram no ar.
-
 ## Suporte
 
 Dúvida ou bug: abra uma Issue neste repositório, ou me chama no Instagram [@cyntiaesberard](https://instagram.com/cyntiaesberard).

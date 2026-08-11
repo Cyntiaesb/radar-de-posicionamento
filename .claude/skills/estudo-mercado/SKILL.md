@@ -265,5 +265,5 @@ No fim, responda em 5 linhas: os 3 achados principais, o posicionamento sugerido
 - **Entrevistas (dado ativo)** entram DEPOIS deste estudo: o slide 35 ("O que validar") vira o roteiro. 5 entrevistas de ~20 min, perguntando "por quê?" 3x seguidas — a causa real aparece na terceira.
 
 ## Encaixe metodológico
-Fecha a **Fase 1** do método. Alimenta a **Fase 2** (mecanismo único, slide 29) e a **Etapa 2 — Iscas & Captação** (skill `pagina-isca`): os **sintomas** viram os ganchos dos reels, as **causas** viram as iscas.
+Fecha a **Fase 1** do método. Alimenta a **Fase 2** (mecanismo único, slide 29): os **sintomas** viram ganchos de conteúdo, as **causas** viram iscas possíveis.
 Proporção: 20 sintomas (ganchos) → 4-7 causas (iscas possíveis) → 3 no ar (as que mais sangram).

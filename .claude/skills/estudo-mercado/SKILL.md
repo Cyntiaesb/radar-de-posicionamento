@@ -1,6 +1,6 @@
 ---
 name: estudo-mercado
-description: Conduz o estudo de mercado completo e gera o deck HTML de Estudo de Mercado e Posicionamento. Entende o negócio (ou ajuda a descobrir o que vender), orienta a coleta de concorrentes, monta a pesquisa sob medida, varre a internet atrás de dores e reclamações, e só então sugere GAP, posicionamento, ICP/persona e mapa sintoma × causa. Use quando o usuário pedir estudo de mercado, análise de concorrentes, matriz de forças/fraquezas, ICP, persona, posicionamento, ou mapa de dores. Funciona em qualquer projeto de marca/lançamento.
+description: Conduz o estudo de mercado completo e gera o deck HTML de Estudo de Mercado e Posicionamento. Entende o negócio (ou ajuda a descobrir o que vender), orienta a coleta de concorrentes, monta a pesquisa sob medida, varre a internet atrás de dores e reclamações, e só então sugere GAP, posicionamento (Jobs-to-be-Done, Pains e Gains no padrão Value Proposition Canvas), Mapa de Valor com Fit produto×mercado, ICP/persona e mapa sintoma × causa. Use quando o usuário pedir estudo de mercado, análise de concorrentes, matriz de forças/fraquezas, ICP, persona, posicionamento, proposta de valor, ou mapa de dores. Funciona em qualquer projeto de marca/lançamento.
 ---
 
 # Skill: Estudo de Mercado & Posicionamento
@@ -157,6 +157,30 @@ Só agora opine. Triangule as fontes:
 - **Teste de validade:** uma boa CAUSA explica **3-5 sintomas**. Se explica só 1, ainda é sintoma — cave mais fundo.
 - A causa que explica MAIS sintomas é candidata a **mecanismo único**.
 
+**Jobs-to-be-Done** ⭐: antes de ranquear dor e desejo, fixe o JOB — a tarefa que a pessoa está tentando realizar. Raramente é o que ela diz que quer comprar. Três tipos, cada um com fonte:
+- **Funcional** — a tarefa prática ("organizar o fluxo de caixa", "parar de perder cliente por demora de resposta")
+- **Social** — como ela quer ser vista fazendo isso ("parecer profissional pro cliente", "não parecer amador pro sócio")
+- **Emocional** — o que ela quer sentir (ou parar de sentir) fazendo isso ("parar de sentir vergonha do Instagram", "se sentir no controle")
+
+Toda dor e todo desejo mapeados nas fases anteriores precisam amarrar a um Job. Se não amarra a nenhum, ou é ruído, ou revela um Job que ainda não foi identificado — volte e cave.
+
+**Gains — 4 níveis** (não é lista solta de desejo, é hierarquia):
+- **Essencial** — sem isso, nem considera comprar
+- **Esperado** — o básico que ela assume que vem junto
+- **Desejado** — iria além do básico, mas não é dealbreaker se faltar
+- **Inesperado** — surpreenderia positivamente; ninguém pede porque não sabe que existe
+
+**Mapa de Valor** — o que a OFERTA (Fase 0) faz com isso. Pra cada Pain e Gain top-ranqueado (por Sangramento e por nível):
+- **Pain Reliever** — o que especificamente na oferta neutraliza essa dor (o "como", não um genérico "resolve isso")
+- **Gain Creator** — o que especificamente na oferta entrega esse ganho
+
+**Fit** — depois de mapear, avalie por Job:
+- 🟢 **Alto** — Pain Relievers + Gain Creators cobrem os itens top-ranqueados
+- 🟡 **Médio** — cobre parcialmente
+- 🔴 **Baixo** — mercado pede, oferta não entrega ainda
+
+Fit baixo não é motivo pra inventar cobertura — é achado. Aponta o que precisa ser criado ANTES de vender a promessa, não um problema de copy.
+
 ---
 
 ## FASE 6 — O DECK
@@ -180,50 +204,64 @@ Só agora opine. Triangule as fontes:
 13. ★ ONDE O MERCADO NÃO ESTÁ OLHANDO — o GAP/FOSSO
 14. A SÍNTESE QUE SUSTENTA TUDO — a virada de chave em 1 slide
 
---- POSICIONAMENTO: 6 EIXOS (o coração) ---
+--- POSICIONAMENTO: 7 EIXOS (o coração) ---
 15. QUEM COMPRA — recorte real de decisão. Não é demografia.
     Quem PAGA × quem USA × quem INFLUENCIA. O evento-gatilho ("por que agora").
-16. QUE DOR SENTE — o problema funcional urgente. O que quebra HOJE.
+16. ★ O JOB — a tarefa que ela está tentando realizar (Jobs-to-be-Done).
+    Funcional × Social × Emocional, cada um com fonte. Ancora os eixos 17-18.
+17. QUE DOR SENTE — o problema funcional urgente, amarrado ao Job do slide 16.
     Sintoma × causa. Custo de não resolver: dinheiro, tempo ou vergonha.
-17. O QUE DESEJA — status, pertencimento, transformação.
-    DESEJO DECLARADO × DESEJO REAL. Quem quer impressionar. A cena do "depois".
-18. O QUE REJEITA — inimigos, frustrações, anti-modelos.
+18. O QUE DESEJA — Gains em 4 níveis: essencial → esperado → desejado → inesperado.
+    Quem quer impressionar. A cena do "depois".
+19. O QUE REJEITA — inimigos, frustrações, anti-modelos.
     O inimigo comum. O que já tentou e odiou. Frases literais de rejeição.
-19. COMO QUER SER VISTO — identidade aspiracional. O rótulo que quer e o que recusa.
-20. QUEM DISPUTA SUA ATENÇÃO — 4 categorias: (a) direto (b) SUBSTITUTO (a gambiarra
+20. COMO QUER SER VISTO — identidade aspiracional. O rótulo que quer e o que recusa.
+21. QUEM DISPUTA SUA ATENÇÃO — 4 categorias: (a) direto (b) SUBSTITUTO (a gambiarra
     atual) (c) criadores que ocupam a cabeça dela (d) NÃO-CONSUMO (quase sempre o maior)
-21. ★ O POSICIONAMENTO — os 6 eixos convergindo.
+22. ★ O POSICIONAMENTO — os 7 eixos convergindo.
     "Somos o único que ___ para ___ que ___" + 2 alternativas com trade-off.
-22. AS CAMADAS QUE NENHUM CONCORRENTE REÚNE
+23. AS CAMADAS QUE NENHUM CONCORRENTE REÚNE
 --- FIM ---
 
-23. O QUE ELE DIZ — E O QUE REALMENTE É — declarado × real (4-6 pares)
-24. PERSONA — retrato em 1 parágrafo na VOZ DELA + dores, desejos, objeções,
+--- MAPA DE VALOR (Value Proposition Canvas) ---
+24. ★ PAIN RELIEVERS & GAIN CREATORS — pra cada Pain/Gain top-ranqueado (slides
+    17-18), o que ESPECIFICAMENTE na oferta (Fase 0) resolve. Sem genérico.
+25. ★ FIT — pontuação 🟢/🟡/🔴 por Job: a oferta cobre o que mais importa pro
+    mercado, ou tem lacuna real de produto (não de comunicação)?
+--- FIM ---
+
+26. O QUE ELE DIZ — E O QUE REALMENTE É — declarado × real (4-6 pares)
+27. PERSONA — retrato em 1 parágrafo na VOZ DELA + Job, dores, desejos, objeções,
     o que já tentou, nível de consciência
-25. VOZ DO CLIENTE — 8-10 citações literais, com fonte
-26. LÉXICO — palavras que ATRAEM × palavras que REPELEM
-27. ★ MAPA SINTOMA × CAUSA — os 20 sintomas:
+28. VOZ DO CLIENTE — 8-10 citações literais, com fonte
+29. LÉXICO — palavras que ATRAEM × palavras que REPELEM
+30. ★ MAPA SINTOMA × CAUSA — os 20 sintomas:
     | # | Sintoma (voz literal) | Causa-raiz | Segmento | Sangramento | Consciência |
-28. AS CAUSAS-RAIZ — 4-7 causas. Cada uma: o mecanismo + quais sintomas explica
-29. CANDIDATO A MECANISMO ÚNICO — a causa que explica MAIS sintomas. Por quê.
-30. OBJEÇÕES RANQUEADAS — por frequência × poder de matar a venda + a objeção oculta
-31. DIMENSÃO ECONÔMICA — faixas de preço, quem cobra mais, o que justifica
-32. PILARES DE CONTEÚDO — sintoma → causa → isca
-33. ÂNGULOS POR NÍVEL DE FUNIL — Topo (dor ampla) | Meio (mecanismo, consequência)
+31. AS CAUSAS-RAIZ — 4-7 causas. Cada uma: o mecanismo + quais sintomas explica
+32. CANDIDATO A MECANISMO ÚNICO — a causa que explica MAIS sintomas. Por quê.
+33. OBJEÇÕES RANQUEADAS — por frequência × poder de matar a venda + a objeção oculta
+34. DIMENSÃO ECONÔMICA — faixas de preço, quem cobra mais, o que justifica
+35. PILARES DE CONTEÚDO — sintoma → causa → isca
+36. ÂNGULOS POR NÍVEL DE FUNIL — Topo (dor ampla) | Meio (mecanismo, consequência)
     | Fundo (objeção, prova, oferta)
-34. ★ POR QUE ISSO PODE ESTAR ERRADO — o contra-argumento. Quem discordaria e por quê.
-35. O QUE VALIDAR — hipóteses em aberto e como testar
-36. PRÓXIMOS PASSOS — checklist do que precisa ser decidido
-37. FONTES — todos os arquivos lidos + todas as buscas + URLs
+37. ★ POR QUE ISSO PODE ESTAR ERRADO — o contra-argumento. Quem discordaria e por quê.
+38. O QUE VALIDAR — hipóteses em aberto e como testar
+39. PRÓXIMOS PASSOS — checklist do que precisa ser decidido
+40. FONTES — todos os arquivos lidos + todas as buscas + URLs
 ```
 
-### Profundidade — obrigatório nos slides 15 a 20
+### Profundidade — obrigatório nos slides 15 a 21
 1. **Três camadas:** o óbvio → o que está atrás (só aparece nos dados) → o que ninguém fala (a verdade desconfortável). Só a 1ª camada = refaça.
 2. **Teste do concorrente:** leia cada frase e pergunte *"isso serviria igual pro concorrente?"* Se sim, está genérico. **Refaça** até ser específico desta marca.
 3. **Evidência:** mínimo 2 citações literais com fonte por eixo. Sem citação → "sem evidência — precisa validar".
 4. **Declarado × real:** separe o que o público DIZ do que o comportamento mostra. Onde divergem, aponte.
 5. Marque **FATO** × **INFERÊNCIA**.
 6. **Proibido:** adjetivo vazio ("inovador", "único", "transformador"), frase de efeito sem dado, persona genérica de agência.
+
+### Profundidade — obrigatório nos slides 24-25 (Mapa de Valor)
+1. **Pain Reliever/Gain Creator específico**: "atendimento humanizado" é genérico e reprovado. "Resposta em até 2h por WhatsApp direto com quem executa, não SAC" é específico e aprovado.
+2. **Sem inflar Fit**: se a oferta hoje não cobre uma Pain/Gain top-ranqueada, marque 🔴 e diga isso — não force um Pain Reliever fraco só pra preencher a célula.
+3. Todo Pain Reliever/Gain Creator remete a algo real de Fase 0 (`[USR]` ou `[ARQ]`) — não pode ser aspiração do que a oferta "poderia" fazer.
 
 ### Regras de conteúdo
 - Citação de cliente é **literal**, com fonte. Nunca parafraseie voz do cliente.
@@ -240,7 +278,7 @@ Formato **deck**: cada seção é um slide numerado, empilhado verticalmente, co
 - Tokens CSS com as cores do brandbook. **Não inventar cor fora da marca.**
 - Display nos títulos, sans no texto, mono em números. `font-variant-numeric: tabular-nums`.
 - Componentes: cards em grid, slide de citação/manifesto, bloco de contraste (declarado × real), tabela com scroll próprio, timeline, checklist, cards de estatística com estado.
-- Destaque reforçado em: **GAP (13)**, **POSICIONAMENTO (21)**, **SINTOMA × CAUSA (27)**.
+- Destaque reforçado em: **GAP (13)**, **POSICIONAMENTO (22)**, **FIT (25)**, **SINTOMA × CAUSA (30)**.
 - Responsivo. Tabela larga rola dentro do container — a página nunca rola pra lado. Sem emoji como marcador.
 
 ---
@@ -262,8 +300,8 @@ No fim, responda em 5 linhas: os 3 achados principais, o posicionamento sugerido
 - Se o brandbook for PDF/imagem, pedir o caminho se não encontrar.
 - Caminho com acento/espaço → aspas obrigatórias no comando de abrir.
 - **Auditar por amostragem:** sugerir ao usuário abrir 3-4 links do registro de fontes. Link inexistente = deck perdeu credibilidade, refazer.
-- **Entrevistas (dado ativo)** entram DEPOIS deste estudo: o slide 35 ("O que validar") vira o roteiro. 5 entrevistas de ~20 min, perguntando "por quê?" 3x seguidas — a causa real aparece na terceira.
+- **Entrevistas (dado ativo)** entram DEPOIS deste estudo: o slide 38 ("O que validar") vira o roteiro. 5 entrevistas de ~20 min, perguntando "por quê?" 3x seguidas — a causa real aparece na terceira.
 
 ## Encaixe metodológico
-Fecha a **Fase 1** do método. Alimenta a **Fase 2** (mecanismo único, slide 29): os **sintomas** viram ganchos de conteúdo, as **causas** viram iscas possíveis.
+Fecha a **Fase 1** do método. Alimenta a **Fase 2** (mecanismo único, slide 32): os **sintomas** viram ganchos de conteúdo, as **causas** viram iscas possíveis.
 Proporção: 20 sintomas (ganchos) → 4-7 causas (iscas possíveis) → 3 no ar (as que mais sangram).

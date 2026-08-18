@@ -1,9 +1,9 @@
 ---
-name: estudo-mercado
-description: Conduz o estudo de mercado completo e gera o deck HTML de Estudo de Mercado e Posicionamento. Entende o negócio (ou ajuda a descobrir o que vender), orienta a coleta de concorrentes, monta a pesquisa sob medida, varre a internet atrás de dores e reclamações, e só então sugere GAP, posicionamento (Jobs-to-be-Done, Pains e Gains no padrão Value Proposition Canvas), Mapa de Valor com Fit produto×mercado, ICP/persona e mapa sintoma × causa. Use quando o usuário pedir estudo de mercado, análise de concorrentes, matriz de forças/fraquezas, ICP, persona, posicionamento, proposta de valor, ou mapa de dores. Funciona em qualquer projeto de marca/lançamento.
+name: radar-posicionamento
+description: Conduz o estudo de mercado completo e gera o deck HTML de Radar de Posicionamento. Entende o negócio (ou ajuda a descobrir o que vender), orienta a coleta de concorrentes, monta a pesquisa sob medida, varre a internet atrás de dores e reclamações, e só então sugere GAP, posicionamento (Jobs-to-be-Done, Pains e Gains no padrão Value Proposition Canvas), Mapa de Valor com Fit produto×mercado, ICP/persona e mapa sintoma × causa. Use quando o usuário pedir estudo de mercado, análise de concorrentes, matriz de forças/fraquezas, ICP, persona, posicionamento, proposta de valor, ou mapa de dores. Funciona em qualquer projeto de marca/lançamento.
 ---
 
-# Skill: Estudo de Mercado & Posicionamento
+# Skill: Radar de Posicionamento
 
 Conduz o estudo do zero e entrega o deck. Fecha a Fase 1 do método: negócio → concorrentes → pesquisa → dores → reclamações → GAP → posicionamento → ICP → sintoma × causa → ângulos por funil.
 
@@ -187,7 +187,7 @@ Fit baixo não é motivo pra inventar cobertura — é achado. Aponta o que prec
 
 ### Estrutura (1 seção = 1 slide numerado)
 ```
-01. CAPA — logo + "Estudo de Mercado & Posicionamento" + marca + data
+01. CAPA — logo + "Radar de Posicionamento" + marca + data
 02. A FRASE QUE RESUME TUDO — 1 citação literal do público, grande, tipo manifesto
 03. SUMÁRIO EXECUTIVO — os 3 achados que mudam o jogo, 1 frase cada
     (quem ler só este slide entende tudo)
@@ -284,7 +284,7 @@ Formato **deck**: cada seção é um slide numerado, empilhado verticalmente, co
 ---
 
 ## SAÍDA — tudo dentro do projeto
-1. Deck: `apresentacoes/{DATA}-estudo-mercado-posicionamento.html`
+1. Deck: `apresentacoes/{DATA}-radar-de-posicionamento.html`
 2. Registro de fontes: `apresentacoes/{DATA}-fontes.md` — arquivos lidos, buscas (query + URL), e tudo `[SEM FONTE]` / "sem evidência"
 3. Material gerado nas fases (negócio, concorrentes, pesquisa, dores, reclamações) → salvar como `.md` no projeto. **Nada pode existir só no chat.**
 4. **Abrir o deck** no navegador (caminho **absoluto**):

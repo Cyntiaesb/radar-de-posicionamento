@@ -1,4 +1,4 @@
-# Estudo de Mercado & Posicionamento
+# Radar de Posicionamento
 
 Skill de Claude Code que conduz um estudo de mercado completo do zero — do "o que você vende" até um deck de posicionamento com GAP, Jobs-to-be-Done, Mapa de Valor (Value Proposition Canvas), ICP, persona e mapa sintoma × causa — e não deixa você (nem o Claude) inventar nada: toda afirmação carrega a fonte.
 
@@ -12,7 +12,7 @@ Skill de Claude Code que conduz um estudo de mercado completo do zero — do "o 
 
 ## Como usar
 
-1. Copie a pasta `.claude/skills/estudo-mercado/` pra dentro do `.claude/skills/` do seu projeto no Claude Code (ou instale como skill global).
+1. Copie a pasta `.claude/skills/radar-posicionamento/` pra dentro do `.claude/skills/` do seu projeto no Claude Code (ou instale como skill global).
 2. Abra o Claude Code no seu projeto (ideal: com o branding book da marca em algum lugar do projeto).
 3. Peça: *"Conduz um estudo de mercado e posicionamento pra [sua marca/produto]"*.
 4. Siga o fluxo — a skill vai pedir prints de concorrentes, orientar uma pesquisa, e parar em cada fase pra você confirmar antes de avançar.
@@ -21,7 +21,7 @@ Skill de Claude Code que conduz um estudo de mercado completo do zero — do "o 
 
 ## O que você recebe no final
 
-- `apresentacoes/{data}-estudo-mercado-posicionamento.html` — o deck completo
+- `apresentacoes/{data}-radar-de-posicionamento.html` — o deck completo
 - `apresentacoes/{data}-fontes.md` — registro de toda fonte usada (auditável)
 - Os materiais brutos de cada fase, salvos como `.md` no projeto
 

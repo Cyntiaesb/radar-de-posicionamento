@@ -36,10 +36,10 @@ Conhecimento prévio **NÃO** é fonte. Se não veio de `[ARQ]`, `[WEB]` ou `[US
 
 ## FASE 0 — ENTENDER O NEGÓCIO ⛔
 
-**Pergunta de entrada:** *"Você já vende curso/mentoria, ou quer começar?"*
+**Pergunta de entrada:** *"Você já vende um produto ou serviço, ou quer começar?"* (vale para empresa, agência, profissional liberal ou infoproduto)
 
 ### 🅰️ Caminho A — já tem produto
-Mapeie: o que vende · preço · formato de entrega · quantos alunos · o que funciona · o que trava · resultado dos alunos · por que compram · **por que desistem**.
+Mapeie: o que vende · preço · como entrega · quantos clientes (ou alunos) · o que funciona · o que trava · resultado dos clientes · por que compram · **por que desistem ou cancelam**.
 
 ### 🅱️ Caminho B — ainda não tem *(a maioria)*
 **Não fale de produto ainda.** Mapeie a pessoa primeiro:
@@ -72,6 +72,8 @@ Mapeie: o que vende · preço · formato de entrega · quantos alunos · o que f
 - os 10 posts mais engajados
 - **os comentários desses posts** ⭐ (é onde está o ouro)
 
+Peça para salvar os prints dentro do projeto, numa pasta por concorrente: `concorrentes/<nome-do-concorrente>/` (ex.: `concorrentes/clinica-sorriso/bio.png`, `post-01.png`, `comentarios-01.png`).
+
 **Links** (de cada concorrente):
 - página de venda · produto · preço
 
@@ -95,10 +97,10 @@ Só agora dá pra montar uma pesquisa boa — você já entende o negócio (F0) 
 
 **Monte versões com TONS diferentes** conforme o público existir:
 - **Clientes** — tom de quem já comprou: o que resolveu, o que faltou, por que escolheu você
-- **Alunos** — tom de quem está dentro: o que travou, o que mais ajudou
+- **Clientes (ou alunos)** — tom de quem está dentro: o que travou, o que mais ajudou
 - **Ex-clientes** ⭐ — tom de reconciliação, sem defensiva: **por que saiu**. É a fonte nº1 de churn e objeção
 - **Conhecidos/lista fria** — tom de quem ainda não comprou: qual a trava
-- *(No Caminho B não existem "alunos" — use "quem já te pediu ajuda")*
+- *(No Caminho B ainda não existem clientes — use "quem já te pediu ajuda")*
 
 **A pesquisa deve extrair:**
 - momento/maturidade (segmenta) · maior trava · o que já tentou · disposição a pagar
@@ -118,7 +120,8 @@ Varra e traga evidência. Mínimo **10 buscas**, variando os termos **como o pú
 - Busca: Google autocomplete · "as pessoas também perguntam" · buscas relacionadas
 - Comunidades: Reddit · Quora · grupos de Facebook · Discord/Telegram · X
 - Vídeo: títulos e **comentários** dos vídeos mais vistos do nicho
-- Marketplaces: Hotmart / Kiwify / Braip (mais vendidos, promessas, preços)
+- Avaliações: Reclame Aqui · Google Maps (avaliações dos concorrentes) · LinkedIn (para serviço B2B)
+- Marketplaces, se for produto: Mercado Livre · Shopee · Hotmart / Kiwify (mais vendidos, promessas, preços)
 
 **Extraia:** termos de busca reais (long-tail) · dores · desejos · objeções · **inimigo comum** (o que ela culpa) · voz do cliente literal · nível de consciência.
 
@@ -279,7 +282,7 @@ Formato **deck**: cada seção é um slide numerado, empilhado verticalmente, co
 - Display nos títulos, sans no texto, mono em números. `font-variant-numeric: tabular-nums`.
 - Componentes: cards em grid, slide de citação/manifesto, bloco de contraste (declarado × real), tabela com scroll próprio, timeline, checklist, cards de estatística com estado.
 - Destaque reforçado em: **GAP (13)**, **POSICIONAMENTO (22)**, **FIT (25)**, **SINTOMA × CAUSA (30)**.
-- Responsivo. Tabela larga rola dentro do container — a página nunca rola pra lado. Sem emoji como marcador.
+- Responsivo. Tabela larga rola dentro do container — a página nunca rola pra lado. Sem emoji como marcador de lista; a única exceção é a nota de Fit, que usa as três bolinhas 🟢🟡🔴.
 
 ---
 
@@ -288,9 +291,9 @@ Formato **deck**: cada seção é um slide numerado, empilhado verticalmente, co
 2. Registro de fontes: `apresentacoes/{DATA}-fontes.md` — arquivos lidos, buscas (query + URL), e tudo `[SEM FONTE]` / "sem evidência"
 3. Material gerado nas fases (negócio, concorrentes, pesquisa, dores, reclamações) → salvar como `.md` no projeto. **Nada pode existir só no chat.**
 4. **Abrir o deck** no navegador (caminho **absoluto**):
-   - Windows: `start "" "caminho\completo\arquivo.html"`
+   - Windows (o terminal do Claude Code no Windows é Git Bash): `explorer.exe "C:\caminho\completo\arquivo.html"`
    - Mac: `open "caminho/arquivo.html"`
-5. Publicar como artifact.
+   - Se não abrir, diga ao usuário o caminho completo para ele abrir com dois cliques.
 
 No fim, responda em 5 linhas: os 3 achados principais, o posicionamento sugerido, a causa-raiz mais forte, e o que ficou sem evidência.
 
